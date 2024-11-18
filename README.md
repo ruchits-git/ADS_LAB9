@@ -16,9 +16,6 @@
 [Click here to download data](https://github.com/entbappy/Branching-tutorial/raw/master/cat-dog-data.zip)
 
 
-## Youtube Playlist of this project implementation:
-[Click here](https://youtube.com/playlist?list=PLkz_y24mlSJZtxpM7dkfiOYxs6PZXHt0_)
-
 # How to run?
 ### STEPS:
 
@@ -44,20 +41,6 @@ pip install -r requirements.txt
 # Finally run the following command
 python app.py
 ```
-
-Now,
-```bash
-open up you local host and port
-```
-
-
-```bash
-Author: Bappy Ahmed
-Data Scientist
-Email: entbappy73@gmail.com
-
-```
-
 
 
 # AWS-CICD-Deployment-with-Github-Actions
