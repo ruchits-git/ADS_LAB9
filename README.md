@@ -1,4 +1,4 @@
-# cnnClassifier
+# CAT VS DOG CLASSIFIER
 
 ## Workflows
 
